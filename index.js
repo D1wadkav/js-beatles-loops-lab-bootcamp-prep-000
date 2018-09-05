@@ -9,7 +9,7 @@ function theBeatlesPlay(mus, inst) {
 
 function johnLennonFacts(facts) {
   while (i < facts.length) {
-    text += "The number is " + i;
+    facts[i];
     i++;
 }
 }
