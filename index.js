@@ -7,4 +7,6 @@ function theBeatlesPlay(mus, inst) {
   return arr
 }
 
-function 
+function johnLennonFacts(facts) {
+  
+}
