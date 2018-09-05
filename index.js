@@ -23,5 +23,5 @@ function iLoveTheBeatles(num){
       empArr[i] = "I love the Beatles!"
       i++;
       }
-  while (i < 5);
+  while (i < 15);
 }
