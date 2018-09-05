@@ -1,5 +1,5 @@
 // add solution here
-function theBeatlesPlay(arr, inst) {
-  var empArr = [];
+function theBeatlesPlay(mus, inst) {
+  var arr = [];
   
 }
