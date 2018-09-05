@@ -17,5 +17,5 @@ return facts
 }
 
 function iLoveTheBeatles(num){
-  
+  var empArr = [];
 }
