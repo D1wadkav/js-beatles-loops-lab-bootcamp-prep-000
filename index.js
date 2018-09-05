@@ -19,8 +19,8 @@ return facts
 function iLoveTheBeatles(num){
   var empArr = [];
   do {
-      empArr[i] = "I love the Beatles!"
-      i++;
+      empArr.unshift("I love the Beatles!")
+      num++;
       }
   while (num < 15);
 return empArr
