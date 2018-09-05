@@ -19,7 +19,7 @@ return facts
 function iLoveTheBeatles(num){
   var empArr = [];
   do {
-      empArr.unshift("I love the Beatles!")
+      empArr.unshift("I love the Beatles!");
       num++;
       }
   while (num < 15);
