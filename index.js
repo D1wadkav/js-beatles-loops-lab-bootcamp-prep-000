@@ -8,5 +8,8 @@ function theBeatlesPlay(mus, inst) {
 }
 
 function johnLennonFacts(facts) {
-  
+  while (i < 10) {
+    text += "The number is " + i;
+    i++;
+}
 }
