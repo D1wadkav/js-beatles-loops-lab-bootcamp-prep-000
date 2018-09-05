@@ -18,4 +18,10 @@ return facts
 
 function iLoveTheBeatles(num){
   var empArr = [];
+  var i = 0;
+  do {
+      empArr[i] = "I love the Beatles!"
+      i++;
+      }
+  while (i < 5);
 }
