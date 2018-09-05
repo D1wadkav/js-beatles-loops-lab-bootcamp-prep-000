@@ -10,7 +10,7 @@ function theBeatlesPlay(mus, inst) {
 function johnLennonFacts(facts) {
   var i = 0;
   while (facts.length < i) {
-    facts[i];
+    facts[i] = 
     i--;
 }
 }
